@@ -1,4 +1,9 @@
 #!/usr/bin/env python
+"""
+netgrowlnotify V0.1
+
+Copyright (c) Jason Penney, 2009
+"""
 
 import socket
 from socket import AF_INET, SOCK_DGRAM, socket
